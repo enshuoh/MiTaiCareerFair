@@ -1,7 +1,3 @@
-# ![MiTai](img/MiTai.jpg)
-
----
-
 # 關於我
 
 --
